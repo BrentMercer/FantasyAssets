@@ -1,0 +1,43 @@
+Wizard Room Assets
+
+FURNITURE
+Worktable
+Stools
+Sofa
+Drafting table
+Reading chair
+Bookshelves
+Hearth
+Rug
+
+OBJECTS
+Empty potion bottles/vials
+Full potion bottles/vials
+Glowing potions/vials
+Chemistry set
+Globe
+Books/tomes
+Ink/quill
+Parchment
+Scroll
+Telescope
+Plants
+Pots/vases
+Measuring instruments
+Eye glasses
+Candles
+Lamp
+Scales
+Gemstones
+Looking glass
+Skulls
+Animal cage
+Dishes w/ food - bread, cheese, vegetables, fruit
+Wine bottle/wineglass
+Teapot
+Firewood
+Poker
+Coins
+Coin purse
+Armor rack/armor
+Broom
