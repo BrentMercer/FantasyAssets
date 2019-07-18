@@ -34,3 +34,20 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Maya Stuff
+*.mb
+*.swatches
+*.pyc
+*.spp
+*.assbin
+*.mtl
+*.exr
+*.swatch
+*.iff
+*.tx
+*.tif
+incrementalSave/
+images/tmp/
+
+
