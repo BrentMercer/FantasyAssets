@@ -51,4 +51,4 @@ incrementalSave/
 images/tmp/
 
 # Mac Stuff
-*DS_Store/
+*.DS_Store/
