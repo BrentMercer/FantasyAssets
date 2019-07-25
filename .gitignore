@@ -50,4 +50,5 @@ sysinfo.txt
 incrementalSave/
 images/tmp/
 
-
+# Mac Stuff
+*.DS_Store
