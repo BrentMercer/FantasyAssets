@@ -33,16 +33,7 @@
         }
     },
     "texturesets": {
-        "cushion": {
-            "shader": "Main shader"
-        },
-        "leather": {
-            "shader": "Main shader"
-        },
-        "pillow": {
-            "shader": "Main shader"
-        },
-        "wood": {
+        "phong1": {
             "shader": "Main shader"
         }
     }
