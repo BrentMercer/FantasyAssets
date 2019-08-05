@@ -33,13 +33,7 @@
         }
     },
     "texturesets": {
-        "lambert2": {
-            "shader": "Main shader"
-        },
-        "lambert3": {
-            "shader": "Main shader"
-        },
-        "phongE1": {
+        "Candelabra": {
             "shader": "Main shader"
         }
     }

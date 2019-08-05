@@ -23,10 +23,10 @@
         }
     },
     "texturesets": {
-        "phong1": {
+        "glass": {
             "shader": "Main shader"
         },
-        "phong2": {
+        "pu": {
             "shader": "Main shader"
         }
     }
